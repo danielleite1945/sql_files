@@ -1,2 +1,2 @@
-# sql_files
-Repo to store .sql files as teste
+# utilities querys
+#this repo holds utilities querys for use on sql server
